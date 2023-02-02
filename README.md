@@ -13,3 +13,6 @@ O objetivo deste teste é avaliar suas habilidades de design e usabilidade ao cr
 3. Descrição do processo criativo e referências utilizadas, incluindo justificativas e pensamentos por trás das decisões de design.
 
 4. Entrega dos arquivos finais em formato .PSD ou .Sketch. para Juliano Baladão [jbaladao@gendo.com.br](mailto:jbaladao@gendo.com.br)
+
+### O que não queremos:
+Código funcional, HTML, CSS, etc. Não será avaliado nesse teste.
